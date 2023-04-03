@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá! Eu sou a Maria Rita
 
-<!--
-**imariarita/imariarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente curso Administração, mas sempre tive muito interesse na área de Gestão, Inovação e Tecnologia. Com esse interesse comecei a me dedicar para aprender e desenvolver habilidades técnicas relacionadas a Programação.
+- 🌱 Estudando desenvolvimento Web.
+- 👯 Tenho muito interesse em tópicos como: AI, Data Analysis, Machine Learning, Business Intelligence, RH, Marketing, Negócios e Dados.
+- 😄 Pronouns: ela/dela.
 
-Here are some ideas to get you started:
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=imariarita&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=imariarita&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img heigth="48%" src="https://github-readme-stats.vercel.app/api?username=imariarita&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imariarita&layout=compact&theme=dark)](https://github.com/imariarita/github-readme-stats)
+
+
+
