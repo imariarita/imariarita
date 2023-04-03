@@ -3,7 +3,6 @@
 - 🔭 Atualmente curso Administração, mas sempre tive muito interesse na área de Gestão, Inovação e Tecnologia. Com esse interesse comecei a me dedicar para aprender e desenvolver habilidades técnicas relacionadas a Programação.
 - 🌱 Estudando desenvolvimento Web.
 - 👯 Tenho muito interesse em tópicos como: AI, Data Analysis, Machine Learning, Business Intelligence, RH, Marketing, Negócios e Dados.
-- 😄 Pronouns: ela/dela.
 
 <picture>
 <source 
